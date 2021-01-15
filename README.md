@@ -29,7 +29,7 @@ RDBしか触っていないので、入門レベルで触れたい　　
 - Unit Testing
 - Functional Testing
 
-## AI
+# AI
 - Pytorch  
 今はTensorflowを使っているが、Putorchのメリットが多いので、TFと同等以上に使える様にする  
 - NLP  
